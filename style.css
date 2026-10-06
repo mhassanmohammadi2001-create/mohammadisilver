@@ -37,7 +37,7 @@ header{
 }
 
 .logo{
-    color:#d4af37;
+    color:#f3f1ec;
     font-size:28px;
     font-weight:800;
 }
@@ -60,7 +60,7 @@ nav a{
 
 nav a:hover,
 nav a.active{
-    color:#d4af37;
+    color:#d85315;
 }
 
 /* Hero */
@@ -91,20 +91,20 @@ nav a.active{
 
 .hero h1{
     font-size:52px;
-    color:#d4af37;
+    color:#f3f1ec;
     margin-bottom:20px;
 }
 
 .hero p{
     font-size:20px;
     margin-bottom:35px;
-    color:#ddd;
+    color:#f3f1ec;
 }
 
 .btn{
     display:inline-block;
     padding:15px 35px;
-    background:#d4af37;
+    background:#24e713;
     color:#111;
     border-radius:40px;
     text-decoration:none;
@@ -126,7 +126,7 @@ nav a.active{
 .categories h2{
     text-align:center;
     font-size:36px;
-    color:#d4af37;
+    color:#f3f1ec;
     margin-bottom:60px;
 }
 
@@ -166,7 +166,7 @@ nav a.active{
 
 .category-grid h3 {
     text-align: center;
-    color: #e0b116;
+    color: #f3f1ec;
     font-size: 21px;
     margin: 5px 0;
 }
@@ -216,7 +216,7 @@ nav a.active{
 
 .products h2{
     text-align:center;
-    color:#d4af37;
+    color:#f3f1ec;
     font-size:38px;
     margin-bottom:50px;
 }
@@ -250,7 +250,7 @@ nav a.active{
 }
 
 .product-card h3{
-    color:#d4af37;
+    color:#f3f1ec;
     margin:20px 0 10px;
     font-size:24px;
 }
@@ -477,7 +477,7 @@ border:1px solid #333;
 
 .contact-box h2{
 
-color:#d4af37;
+color:#f3f1ec;
 
 margin-bottom:30px;
 
@@ -497,7 +497,7 @@ color:#ddd;
 
 .contact-box i{
 
-color:#d4af37;
+color:#37d845;
 
 margin-left:10px;
 
